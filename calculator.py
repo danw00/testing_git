@@ -10,3 +10,6 @@ def mutiply(a, b):
 
 def divide_new(a, b):
 	return a/b
+
+def only_premium(a):
+	return a
