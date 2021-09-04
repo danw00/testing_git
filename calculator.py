@@ -10,3 +10,9 @@ def mutiply(a, b):
 
 def divide_free(a, b):
 	return a/b
+
+def only_premium(a):
+	return a
+
+def for_freee(a):
+	return a
