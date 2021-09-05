@@ -15,4 +15,4 @@ def only_premium(a):
 	return a
 
 def say_hello():
-	print("goodbye")
+	print("hello")
