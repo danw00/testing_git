@@ -8,9 +8,11 @@ def subtract(a, b):
 def mutiply(a, b):
 	return a*b
 
-<<<<<<< HEAD
 def divide_new(a, b):
 	return a/b
 
 def only_premium(a):
 	return a
+
+def say_hello():
+	print("goodbye")
