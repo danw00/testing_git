@@ -14,5 +14,8 @@ def divide_free(a, b):
 def only_premium(a):
 	return a
 
-def for_freee(a):
+def for_free(a):
 	return a
+
+def square(a):
+	return a*a
